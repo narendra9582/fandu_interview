@@ -2,7 +2,7 @@
 
 It is a simple PHP & MySQL application that I made as a college project. Hope you like it & learn something from it!
 
----
+-----
 
 ### Features
 * Back-end functionality to manage categories, products and orders.
